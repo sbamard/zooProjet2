@@ -1,0 +1,164 @@
+/*# Empty CSS file for your own CSS*/
+*{
+    font-family: 'Muli', sans-serif;
+}
+.navbar{
+    padding:1px;
+}
+a.nav-color{
+    color:white !important;
+}
+a.nav-color:hover{
+    color:#999 !important;
+}
+.space{
+    padding-top: 65px;
+}
+.navbar-default .navbar-nav > .active > a{
+    background-color: #9e0a0f !important;
+}
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover{
+    background-color: #9e0a0f !important;
+    border-top-color: #337ab7;
+    border-right-color: #337ab7;
+    border-bottom-color: #337ab7;
+    border-left-color: #337ab7;
+}
+.dropdown-menu > li > a:hover{
+    font-weight: bold;
+}
+form{
+    display : inline;
+}
+.pos-messageErreur{
+    width: 50%;
+    background-color: #D58F8F;
+    color:#920B0B;
+    border: 2px solid #920B0B;
+    margin: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.pos-message{
+    width: 50%;
+    background-color: #8BBB8B;
+    color:#194C19;
+    border: 2px solid #194C19;
+    margin: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.form-control{
+    border: 1px solid #d1d3e2;
+}
+.authentification{
+    background: linear-gradient(#4e79df, #2C51BE);
+    width: 100%;
+    height: 100vh;
+}
+img{
+    width: 100px;
+    margin: 5% 0% 0 0;
+}
+.searchBar{
+    margin-top: 8px;
+}
+.navbar-collapse{
+    background:  linear-gradient(#4e79df, #2C51BE);
+}
+.rechercher{
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 8px;
+}
+#result-search{
+    position: fixed;
+    margin-top: 30px;
+}
+#enclos{
+    color: white;
+}
+#enclos:hover{
+    color: #777;
+}
+#deco {
+    color: white;
+}
+#deco:hover {
+    color: #777;
+}
+.btn{
+    background: white;
+    color: black;
+    border: none;
+}
+.btn:hover{
+    background:  linear-gradient(#4e79df, #2C51BE);
+}
+#photoAnimal{
+    width: 100%;
+    border: 2px solid;
+    box-shadow: 2px 2px 12px #555;
+    margin-bottom: 20px;
+}
+.deco{
+    margin-right: 10px;
+}
+.navbar-header{
+    background:  linear-gradient(#4e79df, #2C51BE);
+}
+body{
+    background-color: #F8F9FA;
+}
+#tableau{
+    margin-bottom: 20px;
+    padding: 2%;
+    background:  linear-gradient(#4e79df, #2C51BE);
+    box-shadow: 2px 2px 12px #555;
+    color: white;
+    border-radius: 20px;
+    margin-right: auto;
+}
+#tableau table td {
+}
+
+h3{
+    font-size: 50px;
+}
+#boutonJS{
+    color: white;
+}
+#formulaire{
+    margin-top: 5%;
+    margin-bottom: 20px;
+    padding: 5%;
+    background:  linear-gradient(#4e79df, #2C51BE);
+    box-shadow: 2px 2px 12px #555;
+    color: white;
+    border-radius: 20px;
+}
+#ficheIntervenant{
+    margin-top: 5%;
+    padding: 20px 20px 20px 20px;
+    background:  linear-gradient(#4e79df, #2C51BE);
+    box-shadow: 2px 2px 12px #555;
+    color: white;
+    border-radius: 20px;
+    width: auto;
+}
+.table-titre{
+    padding-right: 10px;
+}
+#ficheIntervenant table td {
+    color: black;
+}
+table tr td{
+    color: black;
+}
+.ajouterEnclos{
+    background:  linear-gradient(#4e79df, #2C51BE);
+}
+#title-accueil
+{
+    text-align: center;
+}
